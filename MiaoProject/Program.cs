@@ -1,5 +1,5 @@
-﻿
-
+﻿namespace MiaoProject;
+    
 class Programm 
 {
     static void Main()
