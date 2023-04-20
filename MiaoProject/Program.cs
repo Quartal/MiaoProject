@@ -11,7 +11,7 @@ class Programm
         switch (Console.ReadKey().Key)
         {
             case ConsoleKey.D1:
-                new Greetings().Greet();
+                
                 break;
             case ConsoleKey.D2:
                 
