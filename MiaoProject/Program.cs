@@ -1,4 +1,4 @@
-﻿using MiaoProject;
+﻿namespace MiaoProject;
 
 class Programm 
 {
