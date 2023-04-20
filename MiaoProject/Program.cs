@@ -1,4 +1,4 @@
-﻿using MiaoProject;
+﻿
 
 class Programm 
 {
@@ -11,7 +11,7 @@ class Programm
         switch (Console.ReadKey().Key)
         {
             case ConsoleKey.D1:
-
+                
                 break;
             case ConsoleKey.D2:
                 
