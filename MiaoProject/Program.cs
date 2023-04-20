@@ -14,7 +14,7 @@ class Programm
                 
                 break;
             case ConsoleKey.D2:
-                
+                new WishingGoodDay().ShowWish();
                 break;
             case ConsoleKey.D3:
                 
