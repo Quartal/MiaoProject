@@ -21,7 +21,7 @@ class Programm
                 new DateAndTime().ShowDateTime();
                 break;
             case ConsoleKey.D4:
-                
+                new WishingGoodDay().ShowWish();
                 break;
         }
     }
