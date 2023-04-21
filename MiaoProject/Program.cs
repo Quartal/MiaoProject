@@ -1,5 +1,5 @@
 ﻿namespace MiaoProject;
-    
+
 class Programm 
 {
     static void Main()
@@ -12,13 +12,13 @@ class Programm
         switch (Console.ReadKey().Key)
         {
             case ConsoleKey.D1:
-                
+                new Greetings().Greet();
                 break;
             case ConsoleKey.D2:
                 new Mirror().ShowMyFace();
                 break;
             case ConsoleKey.D3:
-                
+                new DateAndTime().ShowDateTime();
                 break;
             case ConsoleKey.D4:
                 
